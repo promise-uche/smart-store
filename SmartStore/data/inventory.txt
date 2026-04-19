@@ -1,0 +1,8 @@
+P001|Java Programming Book|4500.0|12|Books & Learning
+P002|USB Flash Drive 32GB|2800.0|25|Storage
+P003|Wireless Mouse|6200.0|8|Peripherals
+P004|HDMI Cable 1.8m|1500.0|40|Cables & Accessories
+P005|Laptop Stand Adjustable|9000.0|5|Accessories
+P006|Mechanical Keyboard|18500.0|3|Peripherals
+P007|Screen Cleaning Kit|1200.0|30|Accessories
+P008|Webcam HD 1080p|14000.0|7|Peripherals
