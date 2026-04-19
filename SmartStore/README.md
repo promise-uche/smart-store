@@ -114,6 +114,6 @@ java -cp out com.smartstore.tests.ProductTest
 
 ## Author
 
-**Name:** ___________________________
-**Date:** ___________________________
-**GitHub:** https://github.com/_______________/SmartStore
+**Name:** Promise Onyemaechi
+**Date:** April 20, 2026
+**GitHub:** https://github.com/promise-uche/smart-store.git
